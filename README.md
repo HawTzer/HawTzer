@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HawTzer
+- 👋 Hi, I’m @hawtzer
 - 👀 I’m interested in both frontend and backend software development
 - 🌱 I’m currently learning c#
 - 💞️ I’m looking to collaborate on ...
