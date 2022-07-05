@@ -6,7 +6,7 @@
 </h1>
 <br>
 <div align="center">
-<img height="300" width="700" alt="GIF" align="center" src="">
+<img height="300" width="700" alt="GIF" align="center" src="https://github.com/HawTzer/HawTzer/blob/0e168b71b8c73ac7dd8b1722940381bd47400cb2/mumei.jpg">
 </div>
 <br>
 <h3 align="center">Haw Tzer is here.</h1>
