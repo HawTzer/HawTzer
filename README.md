@@ -1,38 +1,33 @@
-<h1 align="center">
-  <a target="_blank">
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" width="24px" style="max-width:100%;">
-  </a>
-  Konnichiwhasttsup~~~
-</h1>
-<br>
+<h1 align="center"># Konichiwa 👋</h1>
+
 <div align="center">
-<img height="400" width="500" alt="mumei" align="center" src="https://github.com/HawTzer/HawTzer/blob/0e168b71b8c73ac7dd8b1722940381bd47400cb2/mumei.jpg">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/HawTzer/HawTzer/blob/d488d878fa0d5616885324e054cd2d7c5d32934b/inazuma.gif">
 </div>
-<br>
-<h3 align="center">Haw Tzer is here.</h1>
-<br>
 
-<h3>About ME :</h3>
-
-<img hight="400" width="500" alt="GIF" align="right" src="">
-
-### - Working as :
-- ✨ Junior Developer
-
-### - Hobbies : 
-- ✨ Watching Anime
-- ✨ Hololive Enjoyer
-- ✨ Reading Light Novels
-- ✨ Futsal
-
-<h3 align="center">Languages & Tools 👨‍💻 🛠:</h3>
 </br>
 
-<p align="center">
+<div>
+<h1 align="center">About ME :</h1>
 
-</p>
-<p align="center" >  
-  <a href="https://github.com/hawtzer/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=hawtzer&&show_icons=true&theme=radical"/>
-  </a>
-</p>
+<img height="300" width="400" alt="mumei" align="right" src="https://github.com/HawTzer/HawTzer/blob/0e168b71b8c73ac7dd8b1722940381bd47400cb2/mumei.jpg">
+
+<div align="left">
+<h3>Working as :</h3>
+<p>✨ Junior Developer</p>
+
+<h3>Hobbies : </h3>
+<p>✨ Watching Anime</p>
+<p>✨ Hololive Enjoyer</p>
+<p>✨ Futsal</p>
+</div>
+
+</div>
+
+</br>
+</br>
+</br>
+
+<div align="center">
+<p><img src="https://github-readme-stats.vercel.app/api?username=hawtzer&show_icons=true&theme=synthwave&count_private=true&include_all_commits=true"/></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hawtzer&show_icons=true&langs_count=8&count_private=true&theme=synthwave"></p>
+<div>
