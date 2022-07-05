@@ -27,7 +27,8 @@
 </br>
 </br>
 
-<div align="center">
+<div align="left">
+<h3>Just some stats over here...</h3> 
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hawtzer&show_icons=true&langs_count=8&count_private=true&theme=synthwave"/></p>
 <p><img src="https://github-readme-stats.vercel.app/api?username=hawtzer&show_icons=true&theme=synthwave&count_private=true&include_all_commits=true"/></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hawtzer&show_icons=true&langs_count=8&count_private=true&theme=synthwave"></p>
 <div>
