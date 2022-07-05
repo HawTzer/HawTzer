@@ -1,4 +1,4 @@
-<h1 align="center"># Konichiwa 👋</h1>
+<h1 align="center"># Sup lads👋</h1>
 
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/HawTzer/HawTzer/blob/d488d878fa0d5616885324e054cd2d7c5d32934b/inazuma.gif">
