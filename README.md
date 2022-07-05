@@ -20,7 +20,7 @@
 <p>✨ Hololive Enjoyer</p>
 <p>✨ Gaming 🎮</p>
 <p>✨ Futsal ⚽</p>
-<p>✨ Swimmming</p>
+<p>✨ Swimming</p>
 </div>
 
 </div>
