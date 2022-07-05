@@ -13,13 +13,14 @@
 
 <div align="left">
 <h3>Currently Working as :</h3>
-<p>✨ Junior Developer</p>
-
+<p>✨Junior Developer --- as a full timer</p>
+<p>✨Swimming Instructor --- as a part timer</p>
 <h3>Hobbies : </h3>
 <p>✨ Watching Anime</p>
 <p>✨ Hololive Enjoyer</p>
 <p>✨ Gaming 🎮</p>
 <p>✨ Futsal ⚽</p>
+<p>✨ Swimmming</p>
 </div>
 
 </div>
