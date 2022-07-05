@@ -6,7 +6,7 @@
 </h1>
 <br>
 <div align="center">
-<img height="400" width="500" alt="GIF" align="center" src="https://github.com/HawTzer/HawTzer/blob/0e168b71b8c73ac7dd8b1722940381bd47400cb2/mumei.jpg">
+<img height="400" width="500" alt="mumei" align="center" src="https://github.com/HawTzer/HawTzer/blob/0e168b71b8c73ac7dd8b1722940381bd47400cb2/mumei.jpg">
 </div>
 <br>
 <h3 align="center">Haw Tzer is here.</h1>
@@ -15,10 +15,6 @@
 <h3>About ME :</h3>
 
 <img hight="400" width="500" alt="GIF" align="right" src="">
-
-### - Learning :
-- ✨ C#
-- ✨ React JS
 
 ### - Working as :
 - ✨ Junior Developer
