@@ -22,20 +22,19 @@
 <p>✨ Futsal ⚽</p>
 <p>✨ Swimming</p>
 </div>
-
 </div>
 
-</br>
-</br>
 </br>
 
 <div align="center">
 <h1>Language and Tools : 💻 🛠️</h1>
+
 <h3>IDE</h3>
 <p>
 <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </p>
+
 <h3>Framework & Library</h3>
 <p>
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
@@ -45,6 +44,7 @@
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" />
 </p>
+
 <h3>Languages</h3>
 <p>
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -53,6 +53,7 @@
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </p>
+
 <h3>Databases</h3>
 <p>
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -64,4 +65,4 @@
 <div align="center">
 <h1>Just some stats over here...</h1> 
 <p><img src="https://github-readme-stats.vercel.app/api?username=hawtzer&show_icons=true&theme=synthwave&count_private=true&include_all_commits=true"/></p>
-<div>
+</div>
