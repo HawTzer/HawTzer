@@ -57,7 +57,6 @@
 <p>
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
-</div>
 
 <h3>Version Control: </h3>
 <p>
