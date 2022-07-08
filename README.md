@@ -14,7 +14,7 @@
 <div align="left">
 <h3>Currently Working as :</h3>
 <p>✨Junior Developer --- as a full timer</p>
-<p>✨Swimming Instructor --- as a part timer</p>
+
 <h3>Hobbies : </h3>
 <p>✨ Watching Anime</p>
 <p>✨ Hololive Enjoyer</p>
@@ -39,10 +39,8 @@
 <p>
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />  
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" />
 </p>
 
 <h3>Languages: </h3>
