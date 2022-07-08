@@ -20,7 +20,6 @@
 <p>✨ Hololive Enjoyer</p>
 <p>✨ Gaming 🎮</p>
 <p>✨ Futsal ⚽</p>
-<p>✨ Swimming</p>
 </div>
 </div>
 
@@ -38,9 +37,11 @@
 <h3>Framework & Library: </h3>
 <p>
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white" />
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />  
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
 </p>
 
 <h3>Languages: </h3>
@@ -55,6 +56,12 @@
 <h3>Databases: </h3>
 <p>
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+</div>
+
+<h3>Version Control: </h3>
+<p>
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 </div>
 
